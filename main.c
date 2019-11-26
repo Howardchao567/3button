@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define Game check9
+#define Game check41
 int n[26] = {0};
 
 int check8(int n[], int i)
@@ -247,7 +247,7 @@ int check42(int n[], int i)
         for (k=0; k<=2; k++)
         {
             sum=sum+light[t][k];
-        }
+        };
     }
     if (sum==9)
         return 1;
