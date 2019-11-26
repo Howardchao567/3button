@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572080631 source:g:\project\3button_all\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
